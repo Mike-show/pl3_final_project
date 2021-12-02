@@ -1,6 +1,5 @@
 #include <iostream>
 #include "Utility.h"
-#include "Node.h"
 const int max_list = 100;
 
 template <class Node_entry>
